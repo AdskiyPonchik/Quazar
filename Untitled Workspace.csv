@@ -1,0 +1,40 @@
+text,type,typeId,Description
+Main,Process,creately.flowchart.process,
+"Level.py
+
+- setup_level
+-scroll_x
+-horisontal_collision
+-vertical_collision
+-go",Process,creately.flowchart.process,
+"Player
+
+- character_image
+- animate
+- get_input
+- apply_gravity
+- jump
+- update",Process,creately.flowchart.process,
+"Platforma
+
+- platform_image
+- animate
+- update",Process,creately.flowchart.process,
+"Score_counter
+
+- score_image",Process,creately.flowchart.process,
+"Support
+
+- player_importer
+- platform_importer
+- coin_importer",Process,creately.flowchart.process,
+"Config
+- level_map 
+- tile_size
+ - screen_width
+- screen height",Process,creately.flowchart.process,
+"Coin
+
+- coin_image
+- animate
+- update",Process,creately.flowchart.process,
